@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Naman Dhamani from MNIT 
+- 👋 Hi, I’m Naman Dhamani from MNIT.
 - 👀 I’m interested in algorithms and data structure, My main passion is toward Competitive programming.
-- 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development. 
 - 📫 How to reach me Drop me email at ndhamani2002@gmail.com
 
 <!---
